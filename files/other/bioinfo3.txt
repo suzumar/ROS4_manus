@@ -1,0 +1,132 @@
+Darwin woese.obs-banyuls.fr 19.3.0 Darwin Kernel Version 19.3.0: Thu Jan  9 20:58:23 PST 2020; root:xnu-6153.81.5~1/RELEASE_X86_64 x86_64
+anaconda-client==1.6.1
+biopython==1.70
+clyent==1.2.2
+DendroPy==4.2.0
+gubbins==2.3.1
+mmtf-python==1.0.2
+msgpack-python==0.4.8
+nose==1.3.7
+numpy==1.12.1
+olefile==0.44
+Pillow==4.2.1
+python-dateutil==2.3
+pytz==2016.10
+PyYAML==3.12
+recycler==0.62
+reportlab==3.4.0
+requests==2.12.4
+six==1.10.0
+# packages in environment at /usr/local/miniconda3/envs/bioinfo3:
+#
+# Name                    Version                   Build  Channel
+anaconda-client           1.6.1                    py35_0  
+aragorn                   1.2.36                        1    bioconda
+barrnap                   0.7                           3    bioconda
+biopython                 1.70                np112py35_1    bioconda
+blas                      1.0                         mkl  
+blast                     2.6.0               boost1.60_0    bioconda
+blat                      35                            1    bioconda
+bowtie2                   2.3.0                    py35_1    bioconda
+bwa                       0.7.17               pl5.22.0_2    bioconda
+bzip2                     1.0.8                h1de35cc_0  
+ca-certificates           2021.7.5             hecd8cb5_1  
+clyent                    1.2.2                    py35_0  
+cmake                     3.6.3                         0  
+curl                      7.45.0                        2    bioconda
+dendropy                  4.2.0                    py35_0    bioconda
+diamond                   0.8.36                        0    bioconda
+eigen                     3.2                           3    bioconda
+expat                     2.1.0                         0  
+fastqc                    0.11.5                        1    bioconda
+fasttree                  2.1.10                        0    bioconda
+freetype                  2.5.5                         2  
+giflib                    5.1.4                         0    conda-forge
+gnuplot                   5.0.4              ncurses5.9_0    bioconda
+gubbins                   2.3.1                    py35_1    bioconda
+hdf5                      1.8.17                        1  
+hmmer                     3.1b2                         2    bioconda
+infernal                  1.1.2                         0    bioconda
+java-jdk                  8.0.92                        1    bioconda
+jbig                      2.1                           0  
+jpeg                      9b                            0    bioconda
+krona                     2.7                           0    bioconda
+libcxx                    12.0.0               h2f01273_0  
+libdeflate                0.8                           0    bioconda
+libgcc                    4.8.5                         1  
+libgd                     2.1.1                         0  
+libidn11                  1.33                          0    conda-forge
+libpng                    1.6.27                        0  
+libtiff                   4.0.6                         3  
+libwebp                   0.5.2                         0    conda-forge
+lordec                    0.8                           0    atgc-montpellier
+minced                    0.2.0                         0    bioconda
+mkl                       2017.0.3                      0  
+mmtf-python               1.0.2                    py35_0    bioconda
+msgpack-python            0.4.8                    py35_0  
+mummer                    3.23                          4    bioconda
+ncurses                   5.9                          10  
+nose                      1.3.7                    py35_1  
+numpy                     1.12.1                   py35_0  
+olefile                   0.44                     py35_0  
+openjdk                   8.0.121                       1  
+openssl                   1.0.2u               h1de35cc_0  
+parallel                  20160622             pl5.22.0_2    bioconda
+perl                      5.22.0.1                      0    conda-forge
+perl-bioperl              1.6.924                       4    bioconda
+perl-digest-hmac          1.03                 pl5.22.0_1    bioconda
+perl-encode-locale        1.05                 pl5.22.0_4    bioconda
+perl-file-listing         6.04                          0    bioconda
+perl-filesys-df           0.92                          1    bioconda
+perl-html-parser          3.72                 pl5.22.0_1    bioconda
+perl-html-tagset          3.20                 pl5.22.0_1    bioconda
+perl-http-cookies         6.01                          0    bioconda
+perl-http-daemon          6.01                          0    bioconda
+perl-http-date            6.02                 pl5.22.0_1    bioconda
+perl-http-message         6.11                          0    bioconda
+perl-http-negotiate       6.01                          0    bioconda
+perl-io-html              1.001                pl5.22.0_1    bioconda
+perl-io-socket-ssl        2.024                         0    bioconda
+perl-libwww-perl          6.15                          0    bioconda
+perl-lwp-mediatypes       6.02                 pl5.22.0_1    bioconda
+perl-net-http             6.09                          0    bioconda
+perl-net-ssleay           1.74                          0    bioconda
+perl-ntlm                 1.09                          1    bioconda
+perl-threaded             5.22.0              pl5.22.0_12    bioconda
+perl-uri                  1.71                          0    bioconda
+perl-www-robotrules       6.02                          0    bioconda
+perl-xml-namespacesupport 1.11                          0    bioconda
+perl-xml-parser           2.44                          4    bioconda
+perl-xml-sax              0.99                          0    bioconda
+perl-xml-sax-base         1.08                          0    bioconda
+perl-xml-sax-expat        0.51                          0    bioconda
+perl-xml-simple           2.22                          0    bioconda
+perl-yaml                 1.18                          0    bioconda
+pillow                    4.2.1                    py35_0  
+pilon                     1.22                     py35_0    bioconda
+pip                       9.0.1                    py35_1  
+prodigal                  2.60                          1    bioconda
+prokka                    1.13                          0    bioconda
+python                    3.5.2                         0  
+python-dateutil           2.3                      py35_0    bioconda
+pytz                      2016.10                  py35_0  
+pyyaml                    3.12                     py35_0  
+raxml                     8.2.9                         1    bioconda
+readline                  6.2                           2  
+reportlab                 3.4.0                    py35_0  
+requests                  2.12.4                   py35_0  
+samtools                  1.8                           3    bioconda
+setuptools                27.2.0                   py35_0  
+six                       1.10.0                   py35_0  
+spades                    3.11.1                   py35_1    bioconda
+sqlite                    3.13.0                        0  
+sra-tools                 2.9.1_1              h470a237_0    bioconda
+tbb                       4.4_20150728                  0    bioconda
+tbl2asn                   25.6                          1    bioconda
+tk                        8.5.18                        0  
+trimmomatic               0.36                          3    bioconda
+vsearch                   2.18.0               h14b862d_0    bioconda
+wheel                     0.29.0                   py35_0  
+xz                        5.2.2                         1  
+yaml                      0.1.6                         0  
+zlib                      1.2.11               hf3cbc9b_2  
