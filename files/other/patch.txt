@@ -1,0 +1,7 @@
+193820	195808	gene
+			locus_tag	ROS4_00492
+193820	195808	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	ROS4_00492
+			product	SDR family oxidoreductase
+			protein_id	gnl|LBBM|ROS4_00492
