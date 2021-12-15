@@ -1,5 +1,4 @@
 #/bin/sh
 #this script will take the characters between positions n and m of fasta sequence withe the entire sequence in a single line (see fastaoneline
 #usage rangee n m  seqname (can be partial, i.e. grep) filename
-#cat $4 | grep -A1 $3'$' | gawk -v n=$1 -v m=$2 -F "" '{if ($1 ~/>.*/){print $0} else {i=n; while (i<m){printf("%s",$i); i=i+1};printf("%s","\n")}}' 
 cat $4 | grep -A1 $3 | gawk -v n=$1 -v m=$2 -F "" '{if ($1 ~/>.*/){print $0} else {i=n; while (i<=m){printf("%s",$i); i=i+1};printf("%s","\n")}}'
