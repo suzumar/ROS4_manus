@@ -1,0 +1,69 @@
+Dear Marcelino Suzuki,
+
+We have received your WGS submission for:
+
+SUBID     	BioProject	BioSample	Organism
+---------------------------------------------------
+SUB10745205	PRJNA785135	SAMN23532070	Streptomyces sp. RO-S4 
+
+And have come across the following issues which require your attention.
+
+
+[1] In the inference qualifiers the ISfinder database is not 
+recognized (see file posted on the portal).
+
+SEQ_FEAT.InvalidInferenceValue          3 
+
+You can find more information about inference here:
+https://www.ncbi.nlm.nih.gov/genbank/evidence/
+
+
+[2] 4 product_names contain suspect phrases or characters
+Use short product name instead of descriptive phrase
+Move the dresciptive section to a CDS note.
+4 features contain ';'
+CDS	TetR/AcrR family transcriptional regulator; helix-turn-helix transcriptional regulator	gnl|LBBM|ROS4_13:c16809-16153	LRR80_02692
+CDS	TetR/AcrR family transcriptional regulator; helix-turn-helix transcriptional regulator	gnl|LBBM|ROS4_13:31501-32073	LRR80_02709
+CDS	TetR/AcrR family transcriptional regulator; helix-turn-helix transcriptional regulator	gnl|LBBM|ROS4_67:16465-17214	LRR80_06222
+CDS	TetR/AcrR family transcriptional regulator; helix-turn-helix transcriptional regulator	gnl|LBBM|ROS4_89:2574-3158	LRR80_06632
+
+
+[3] To resubmit the corrected files, do not create a new submission.  
+Instead, log back into the wgs submission portal, 
+https://submit.ncbi.nlm.nih.gov/subs/wgs/, click 'FIX' 
+for this submission.  If you have uploaded the files directly
+in the submission portal, you will need to uncheck the files
+flagged with errors and then upload replacement files. If you used
+the preload option, you will need to resubmit all of the files.  The
+previous files will be replaced with the new files from the preload directory.
+
+Remember to click the submit button at the bottom of the overview page 
+to complete the resubmission.
+
+The submission statuses in the submission portal are:
+
+   Unfinished: click on the SUB identifier in the submission column on the left side of the screen to complete your submission.
+   Queued: the submission is waiting for automated validation
+   Error: some or all files need to be fixed and resubmitted
+   Processing: the submission has passed the automated validation and is waiting for manual review by NCBI staff.
+   Processing and accession number present:  the submission has passed initial review and is waiting for final processing by NCBI staff. We will contact you during final processing if the submission has issues that require additional information.  If a release date was specified, the submission will not be reviewed until the release date expires.
+   Processed: the wgs contigs have been publicly released. Note that any changes made to your submission will be included in the released data, but will not be displayed in the submission portal.
+
+
+Sincerely,
+
+Michel Eschenbrenner
+Contractor
+
+*******************************************************************
+The GenBank Submissions Staff
+Bethesda, Maryland USA
+genomes@ncbi.nlm.nih.gov (replies/submission for WGS or complete genomes)
+*******************************************************************
+
+InvalidInferenceValue	The value of the inference qualifier is constrained by agreement of the international nucleotide sequence database collaboration.  This value does not conform to those constraints.  Please see the feature table documentation for more information.
+	gnl|LBBM|ROS4_5:CDS	 IS3 family transposase IS994	gnl|LBBM|ROS4_5:5-463	LRR80_01052
+	gnl|LBBM|ROS4_11:CDS	 IS3 family transposase ISMyma3	gnl|LBBM|ROS4_11:c373-47	LRR80_02305
+	gnl|LBBM|ROS4_12:CDS	 IS630 family transposase ISMsm2	gnl|LBBM|ROS4_12:156445-156825	LRR80_02651
+
+
