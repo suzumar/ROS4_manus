@@ -2,10 +2,10 @@
 
 After discussion with Rima, something that was not present in CNZ-748 and the S4 angucyclin BGC was a monooxygenase.  Try to check which protein family it belongs to.  The protein was actually annotated by Antismash, once I sent a DNA sequence 
 
-[Antismash results for S4](https://github.com/suzumar/ROS4_manus/blob/main/files/data/PROKKA_08302021.zip) using Prokka annotation
-[Antismash results for S4](https://github.com/suzumar/ROS4_manus/blob/main/files/data/S4_manu2.zip) using nucleotide sequence
-[Antismash results for CNZ-748](https://github.com/suzumar/ROS4_manus/blob/main/files/data/gcnZ78(1).zip) using Prokka annotation
-[Antismash results for CNZ-748](https://github.com/suzumar/ROS4_manus/blob/main/files/data/gcnZ78.zip) using nucleotide sequence
+[Antismash results for S4](https://github.com/suzumar/ROS4_manus/blob/main/files/data/PROKKA_08302021.zip) using Prokka annotation  
+[Antismash results for S4](https://github.com/suzumar/ROS4_manus/blob/main/files/data/S4_manu2.zip) using nucleotide sequence  
+[Antismash results for CNZ-748](https://github.com/suzumar/ROS4_manus/blob/main/files/data/gcnZ78(1).zip) using Prokka annotation  
+[Antismash results for CNZ-748](https://github.com/suzumar/ROS4_manus/blob/main/files/data/gcnZ78.zip) using nucleotide sequence 
 
 > CTG2_177 MAAPDTDVIVVGAGPSGLVLAGDLRAGGARVTVLERLARPTTESRASVLHARTLHLLAERGLLQRFGQLPAAGPGHFGGIPLDLSEAGDSPYAGQWKAPQTHVEAVLAAWATELGAEVRRGLTVTGLTQSSDRVRVVAVAPGGRRLRLDASYVVGCDGEDSAVRRLGGFGFPGAAATKELLRADLAGIELRERRFERHPRGVANARRGPDGVTRIMVHAFDRTPGPSRTPAFDDVCAVWARVTGEDITGARPVWLNAFDNARRQADGYRDGRVFLAGDAAHVQLPVGGQALNLGLQDAMDLGPKLAAHLAGRAGDEVLDTYDTVRRPVGARVLTNIEAQAQLLFGGPEVDPLRAVFRELLDLPAARRHLAAMVSGLDGGRPAWAGTGGPGKPAAPAPTRQDIRHRRITMGKLFGKTALVSGSSRGIGRATALRLARDGALVAVHCSSNREAAEETVAAIEKDGGRGFSVLAELGVPGDVHELFLALERELKERTGDTTLDILVNNAGVMGGVDPEELTPEQFDRLFAVNAKAPYFLVQRALANLPDGGRIINISSGLTRVANPQEVAYAMTKGAVDQLTLHFAKHLGPRGITVNSVGPGITDNGSPVFDDPEAVAAMAGYSVFNRVGETRDIADVVAFLASDDSRWITGSYLDASGGTLLGG
 
