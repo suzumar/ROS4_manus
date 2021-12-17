@@ -60,7 +60,7 @@ cat UrdMred.faa UrdMredB.faa > UrdMredALL.faa
 
 > in /Volumes/woese/System/Volumes/Data/work/marcel/rima/genomes/S4/comparison
 
-use Rima's manually downloaded [file](link) :  genes\ of\ gcn\ Streptomyces\ lusitanus\ SCSIO\ LR32\ .txt
+use Rima's manually downloaded [file](https://github.com/suzumar/ROS4_manus/blob/main/files/data/genes%20of%20gcn%20Streptomyces%20lusitanus%20SCSIO%20LR32%20.txt) :  genes\ of\ gcn\ Streptomyces\ lusitanus\ SCSIO\ LR32\ .txt
  
 `cat genes\ of\ gcn\ Streptomyces\ lusitanus\ SCSIO\ LR32\ .txt | grep -A1 AGO | sed '/--/d' | sed 's/^AGO/\>AGO/1' > LR32pro.faa`
  
