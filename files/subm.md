@@ -29,5 +29,5 @@ prokka --compliant --centre LBBM -kingdom Bacteria --cdsrnaolap --outdir PRJNA78
 
 Use genome workbech in console
 
-After errors in submission correct for "contaminants" in the ends. see [here](https://github.com/suzumar/rima_analysis/blob/main/files/S4.md#Curation-at-Genbank-Submission-Stage)
+After errors in submission correct for "contaminants" in the ends. see [here](https://github.com/suzumar/ROS4_manus/blob/main/files/S4.md#Curation-at-Genbank-Submission-Stage)
 
