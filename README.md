@@ -1,6 +1,6 @@
 # Introduction
 
-This repository contains discussion, analysis pipelines, files and scripts used in the manuscript
+This repository contains discussion, analysis pipelines, files and scripts used in the preprint https://biorxiv.org/cgi/content/short/2021.12.21.473593v1
 
 **"Integrated metabolomic, molecular networking and genome mining analyses uncover novel angucyclines from Streptomyces sp. RO-S4 isolated from Bejaia Bay, Algeria"**
 
