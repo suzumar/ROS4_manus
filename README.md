@@ -1,6 +1,6 @@
 # Introduction
 
-This repository contains discussion, analysis pipelines, files and scripts used in the manuscript
+This repository contains discussion, analysis pipelines, files and scripts used in the preprint https://biorxiv.org/cgi/content/short/2021.12.21.473593v1
 
 **"Integrated metabolomic, molecular networking and genome mining analyses uncover novel angucyclines from Streptomyces sp. RO-S4 isolated from Bejaia Bay, Algeria"**
 
@@ -16,5 +16,5 @@ This repository contains discussion, analysis pipelines, files and scripts used 
 
 - [RO-S4 assembly](https://github.com/suzumar/ROS4_manus/blob/main/files/S4.md) where the assembly of Strain S4 is presented
 - [Cluster 2](https://github.com/suzumar/ROS4_manus/blob/main/files/cluster2.md) Antismash and other discussion related to Anugucyline BGCs 
-- [Phylogenetic analyses](https://github.com/suzumar/ROS4_manus/blob/main/files/phylo.md) Phylogenetic analysis of FAD dependent oxidases
+- [Phylogenetic analyses](https://github.com/suzumar/ROS4_manus/blob/main/files/phylo.md) Phylogenetic analyses of FAD dependent oxidases
 - [Genome Submission](https://github.com/suzumar/ROS4_manus/blob/main/files/subm.md) SRA and genome submission
