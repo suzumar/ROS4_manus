@@ -18,3 +18,4 @@ This repository contains discussion, analysis pipelines, files and scripts used 
 - [Cluster 2](https://github.com/suzumar/ROS4_manus/blob/main/files/cluster2.md) Antismash and other discussion related to Anugucyline BGCs 
 - [Phylogenetic analyses](https://github.com/suzumar/ROS4_manus/blob/main/files/phylo.md) Phylogenetic analyses of FAD dependent oxidases
 - [Genome Submission](https://github.com/suzumar/ROS4_manus/blob/main/files/subm.md) SRA and genome submission
+- [TYGS results](https://github.com/suzumar/ROS4_manus/blob/main/files/TYGS.md)
