@@ -1,9 +1,11 @@
 # Introduction
 
-This repository contains discussion, analysis pipelines, files and scripts used in the preprint https://biorxiv.org/cgi/content/short/2021.12.21.473593v1
+This repository contains discussion, analysis pipelines, files and scripts used in the preprint https://biorxiv.org/cgi/content/short/2021.12.21.473593v1 
 
 **"Integrated metabolomic, molecular networking and genome mining analyses uncover novel angucyclines from Streptomyces sp. RO-S4 isolated from Bejaia Bay, Algeria"**
 
+later published in Frontiers in Microbiology, Systems Microbiology : https://www.frontiersin.org/articles/10.3389/fmicb.2022.906161/full
+ 
 > Throughout this documentation the names in the final publication are diffeent than those used in the analysis.  Rather than exchange all names we provide the correspondence between names that are:
 
 > RO-S4 is equivalent to S4  
